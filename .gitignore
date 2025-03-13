@@ -1,5 +1,10 @@
 /wp-admin/
-/wp-content/
+/wp-content/*
+!/wp-content/plugins/
+/wp-content/plugins/*
+!/wp-content/plugins/blocks/
+/wp-content/themes/*
+!/wp-content/themes/base/
 /wp-includes/
 /.idea/
 /.htaccess

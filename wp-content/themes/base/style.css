@@ -1,3 +1,7 @@
 /**
 Theme Name: Base theme
  */
+
+body {
+    background: red!important;
+}
