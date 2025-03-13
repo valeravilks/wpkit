@@ -3,6 +3,8 @@
 !/wp-content/plugins/
 /wp-content/plugins/*
 !/wp-content/plugins/blocks/
+/wp-content/plugins/blocks/build
+!/wp-content/plugins/core/
 /wp-content/themes/*
 !/wp-content/themes/base/
 /wp-includes/
