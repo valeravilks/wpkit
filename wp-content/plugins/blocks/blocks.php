@@ -26,5 +26,6 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 function create_block_blocks_block_init() {
 	register_block_type( __DIR__ . '/build/blocks' );
+	register_block_type( __DIR__ . '/build/block2' );
 }
 add_action( 'init', 'create_block_blocks_block_init' );
